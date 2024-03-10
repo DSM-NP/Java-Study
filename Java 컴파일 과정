@@ -1,5 +1,3 @@
-
-
 1. Java 원시코드(.java)를 Java complier가 Java Bytecode(*.class)로 변환한다.
     - Java complier는 JDK 설치 시 bin에 존재하는 javac.exe이다. 따라서 javac 명령어를 통해 .java파일을 .class 파일로 컴파일이 가능하다. (JDK안에 Java complier 존재)
     - Java 원시코드(.java)는 사람에게 친화적인 언어로 작성되어 있기 때문에 CPU가 인식을 하지 못한다.
